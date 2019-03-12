@@ -1,0 +1,23 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node Express Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immeasurable-vikrant/Node-Express.git"
+  },
+  "author": "Vikrant Singh Bandral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/immeasurable-vikrant/Node-Express/issues"
+  },
+  "homepage": "https://github.com/immeasurable-vikrant/Node-Express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
